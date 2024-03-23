@@ -1,1 +1,1 @@
-# riidgyy.com
+# riidgyy.github.io
