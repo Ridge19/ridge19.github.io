@@ -77,11 +77,11 @@ body {
 }
 
 .light-mode .cv-button {
-    background-color: #2D8C4A; /* Deep green */
+    background-color: #0056b3; /* Darker blue for contrast */
 }
 
 .light-mode .cv-button:hover {
-    background-color: #34a853;
+    background-color: #2D8C4A;
     box-shadow: 0px 0px 10px #34a853;
 }
 
