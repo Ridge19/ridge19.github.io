@@ -54,6 +54,13 @@ body {
     margin-top: 10px;
 }
 
+/* NEW */
+.view-btn:hover {
+    background-color: #4c8eff; /* Neon blue */
+    box-shadow: 0px 0px 10px #4c8eff; /* Soft glow */
+    transform: scale(1.05); /* Slight enlargement */
+}
+
 .light-mode {
     background-color: white;
     color: black;
@@ -75,5 +82,6 @@ body {
     margin: 20px auto 0 auto; /* Centers it under Project 2 */
 }
 .cv-button:hover {
-    background-color: #45a049;
+    background-color: #4c8eff; /* Neon blue */
+    box-shadow: 0px 0px 10px #4c8eff; /* Soft glow */
     }
