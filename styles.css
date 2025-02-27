@@ -34,6 +34,9 @@ body {
     display: flex;
     justify-content: center;
     gap: 20px;
+    flex-wrap: wrap; /* Allows it to adjust on smaller screens */
+    max-width: 1000px; /* Prevents it from stretching too much */
+    margin: auto; /* Centers the whole projects section */
 }
 
 .project-card {
