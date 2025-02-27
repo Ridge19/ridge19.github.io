@@ -66,6 +66,25 @@ body {
     color: black;
 }
 
+/* NEW */
+.light-mode .view-btn {
+    background-color: #0056b3; /* Darker blue for contrast */
+}
+
+.light-mode .view-btn:hover {
+    background-color: #007bff; /* Lighter blue */
+    box-shadow: 0px 0px 10px #007bff;
+}
+
+.light-mode .cv-button {
+    background-color: #2D8C4A; /* Deep green */
+}
+
+.light-mode .cv-button:hover {
+    background-color: #34a853;
+    box-shadow: 0px 0px 10px #34a853;
+}
+
 .light-mode .project-card {
     background: rgba(0, 0, 0, 0.1);
 }
