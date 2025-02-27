@@ -65,14 +65,14 @@ body {
 
 /* NEW */
 .cv-button {
-    background-color: #4CAF50;
+    background-color: blue; /* Match the "View More" button color */
     color: white;
-    font-size: 16px;
     padding: 10px 20px;
     border: none;
-    cursor: pointer;
     border-radius: 5px;
     text-align: center;
+    display: block;
+    margin: 20px auto 0 auto; /* Centers it under Project 2 */
 }
 .cv-button:hover {
     background-color: #45a049;
