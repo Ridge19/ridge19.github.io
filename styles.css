@@ -34,9 +34,6 @@ body {
     display: flex;
     justify-content: center;
     gap: 20px;
-    flex-wrap: wrap; /* Allows it to adjust on smaller screens */
-    max-width: 1200px; /* Prevents it from stretching too far */
-    margin: auto; /* Centers it */
 }
 
 .project-card {
@@ -45,7 +42,6 @@ body {
     border-radius: 10px;
     backdrop-filter: blur(10px);
     width: 250px;
-    text-align: center; /* Ensures text inside is centered */
 }
 
 .view-btn {
