@@ -62,3 +62,18 @@ body {
 .light-mode .project-card {
     background: rgba(0, 0, 0, 0.1);
 }
+
+/* NEW */
+.cv-button {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+}
+.cv-button:hover {
+    background-color: #45a049;
+    }
